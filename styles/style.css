@@ -1,0 +1,22 @@
+body{
+    margin:0;
+    padding:0;
+}
+.nav-container{
+    display:flex;
+    justify-content:space-around;
+    background-color:rgba(255, 144, 14, 0.10);
+    padding:5rem 0;
+
+
+}
+.menus > ul{
+    display:flex;
+}
+.menus li{
+    list-style-type:none;
+    margin-left:2rem;
+}
+.menus li a{
+    text-decoration:none;
+}
