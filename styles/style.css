@@ -1,22 +1,5 @@
-body{
-    margin:0;
-    padding:0;
-}
-.nav-container{
-    display:flex;
-    justify-content:space-around;
-    background-color:rgba(255, 144, 14, 0.10);
-    padding:5rem 0;
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Open+Sans:wght@400;700;800&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Work+Sans:wght@400;500;600;700;800&display=swap');
 
-
-}
-.menus > ul{
-    display:flex;
-}
-.menus li{
-    list-style-type:none;
-    margin-left:2rem;
-}
-.menus li a{
-    text-decoration:none;
+*{
+    font-family: 'Work Sans', sans-serif;
 }
